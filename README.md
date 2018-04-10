@@ -1,0 +1,2 @@
+# seedbank
+storage all resource
